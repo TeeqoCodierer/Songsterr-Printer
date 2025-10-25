@@ -1,7 +1,8 @@
 # Songsterr-Printer
 
+Note: This is for demonstration purposes only. If you want to download something from songsterr then you should defo pay them ig.
+
 Print and download sheet music from Songsterr. No downloads - just a single command in your browser.
-Inspired by https://github.com/AnsonLai/MuseScore-Printer.
 
 ## Usage
 
